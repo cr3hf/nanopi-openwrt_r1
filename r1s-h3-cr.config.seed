@@ -5,32 +5,31 @@ CONFIG_TARGET_sunxi_cortexa7_DEVICE_friendlyarm_nanopi-r1=y
 
 CONFIG_TARGET_ROOTFS_PARTSIZE=380
 
-# CONFIG_PACKAGE_acpid=y
-# CONFIG_PACKAGE_luci-app-adbyby-plus=y
-# CONFIG_PACKAGE_luci-app-ddnsto=y
-# CONFIG_PACKAGE_luci-app-godproxy=y
-# CONFIG_PACKAGE_luci-app-netdata=y
-# CONFIG_PACKAGE_luci-app-openclash=y
 
-# CONFIG_PACKAGE_luci-app-adguardhome=y
-# CONFIG_PACKAGE_luci-app-frpc=y
-# CONFIG_PACKAGE_luci-app-ssr-plus=y
-# CONFIG_PACKAGE_luci-app-upnp=y
-# CONFIG_PACKAGE_luci-app-frps=y
-# CONFIG_PACKAGE_luci-app-ddns=y
-# 
+
+
+
+
+
+
+
+
+
 CONFIG_PACKAGE_luci-app-cpufreq=y
 
 
-# CONFIG_PACKAGE_luci-app-passwall=y
-# CONFIG_PACKAGE_luci-app-qbittorrent=y
-# CONFIG_PACKAGE_luci-app-statistics=y
-# CONFIG_PACKAGE_luci-app-transmission=y
-# CONFIG_PACKAGE_luci-theme-openwrt=y
-# CONFIG_PACKAGE_luci-theme-openwrt-2020=y
+
 
 
 CONFIG_PACKAGE_luci-theme-argon=y
+
+
+
+
+
+
+
+
 
 
 
