@@ -67,6 +67,8 @@ CONFIG_PACKAGE_resize2fs=y
 CONFIG_PACKAGE_sfdisk=y
 CONFIG_PACKAGE_usb-modeswitch=y
 
+CONFIG_PACKAGE_iptables-mod-socket=y
+CONFIG_PACKAGE_iptables-mod-iptables-mod-iprange=y
 CONFIG_PACKAGE_iptables-mod-conntrack-extra=y
 CONFIG_PACKAGE_iptables-mod-ipopt=y
 CONFIG_PACKAGE_iptables-mod-tproxy=y
