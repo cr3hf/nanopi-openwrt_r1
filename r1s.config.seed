@@ -21,8 +21,13 @@ CONFIG_PACKAGE_ddns-scripts_nsupdate=y
 CONFIG_PACKAGE_ddns-scripts_route53-v1=y
 CONFIG_PACKAGE_dnsmasq_full_dhcpv6=y
 
+
+
+
+
 CONFIG_PACKAGE_luci-app-adguardhome=y
 CONFIG_PACKAGE_luci-app-adbyby-plus=y
+
 
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-frpc=y
@@ -42,7 +47,6 @@ CONFIG_PACKAGE_luci-app-v2ray-server=y
 CONFIG_PACKAGE_luci-app-ipsec-server=y
 CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
 CONFIG_PACKAGE_luci-app-wireguard=y
-
 
 CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-tencentddns=y
@@ -66,41 +70,35 @@ CONFIG_PACKAGE_luci-app-kodexplorer=y
 CONFIG_PACKAGE_luci-app-samba=y
 CONFIG_PACKAGE_luci-app-iptvhelper=y
 
+
 CONFIG_PACKAGE_luci-app-haproxy-tcp=y
 CONFIG_PACKAGE_luci-app-diag-core=y
-CONFIG_PACKAGE_luci-app-wrtbwmon=y
-# CONFIG_PACKAGE_luci-app-nlbwmon=y
 CONFIG_PACKAGE_luci-app-netdata=y
 CONFIG_PACKAGE_luci-app-ttyd=y
 CONFIG_PACKAGE_luci-app-usb-printer=y
 CONFIG_PACKAGE_luci-app-wol=y
 
+
+
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
 
+
 CONFIG_PACKAGE_default-settings-chn=y
 CONFIG_PACKAGE_kmod-ebtables-ipv6=m
 CONFIG_PACKAGE_kmod-ipt-raw6=m
-CONFIG_PACKAGE_kmod-usb-net-asix-ax88179=m
-CONFIG_PACKAGE_kmod-usb-net-rndis=m
 CONFIG_PACKAGE_ksmbd-utils=m
-CONFIG_PACKAGE_luci-app-socat=m
 CONFIG_PACKAGE_luci-proto-openconnect=m
 CONFIG_PACKAGE_igmpproxy=m
 CONFIG_PACKAGE_usbutils=m
 CONFIG_PACKAGE_xl2tpd=m
 CONFIG_PACKAGE_zram-swap=m
-CONFIG_PACKAGE_luci-app-mwan3=m
-CONFIG_PACKAGE_luci-app-mwan3helper=m
 CONFIG_PACKAGE_node-npm=m
-CONFIG_PACKAGE_shadowsocks-libev-ss-tunnel=m
-CONFIG_PACKAGE_smartmontools-drivedb=m
 CONFIG_PACKAGE_usbutils=y
 
 
 CONFIG_PACKAGE_luci-theme-argon=y
-
 
 
 
@@ -124,9 +122,6 @@ CONFIG_PACKAGE_iptables-mod-ipopt=y
 CONFIG_PACKAGE_iptables-mod-tproxy=y
 CONFIG_PACKAGE_kmod-tcp-bbr=y
 CONFIG_PACKAGE_kmod-ipt-offload=y
-
-
-
 
 
 
